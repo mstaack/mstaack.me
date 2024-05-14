@@ -1,0 +1,4 @@
+baseURL = 'https://mstaack.me/'
+languageCode = 'en-us'
+title = 'My Personal Blog'
+theme = 'archie'
